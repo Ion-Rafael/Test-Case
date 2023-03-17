@@ -24,11 +24,11 @@ User:Rafael & Pass:12345
 **Description:**
 Check if forgot password functionality works as expected and an email with reset password link is sent.
 
-*Steps to Reproduce:**
+**Steps to Reproduce:**
 1.Got to www.website.com/login
 2.Press "Forgot Password" button
 3.Add an email address
-4.Press "Recoer" button
+4.Press "Recover" button
 
 **Expected result:**
 User should recived an email with an reset password link.That link should allow the user to create a nwe password.
