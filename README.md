@@ -8,7 +8,6 @@ Below are some Test Cases that I wrote while working on previous projects.
 Check if the login works when a person uses correct user/pass.
 
 **Steps to Reproduce:**
-
 1.Go to www.website.com/login
 2.Add a correct user.pass
 3.Press Login button
