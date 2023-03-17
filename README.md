@@ -26,7 +26,6 @@ User:Rafael & Pass:12345
 Check if forgot password functionality works as expected and an email with reset password link is sent.
 
 **Steps to Reproduce:**
-
 1.Got to www.website.com/login
 2.Press "Forgot Password" button
 3.Add an email address
