@@ -8,6 +8,7 @@ Below are some Test Cases that I wrote while working on previous projects.
 Check if the login works when a person uses correct user/pass.
 
 **Steps to Reproduce:**
+
 1.Go to www.website.com/login
 2.Add a correct user.pass
 3.Press Login button
@@ -25,6 +26,7 @@ User:Rafael & Pass:12345
 Check if forgot password functionality works as expected and an email with reset password link is sent.
 
 **Steps to Reproduce:**
+
 1.Got to www.website.com/login
 2.Press "Forgot Password" button
 3.Add an email address
